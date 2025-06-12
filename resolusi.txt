@@ -2,3 +2,4 @@ Resolusi untuk mengisi github
 - belajar javascript
 - belajar ccs
 - belajar phyton?
+- baca buku
